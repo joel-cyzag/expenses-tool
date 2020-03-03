@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/joel-cyzag/expenses-tool/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[App link](https://joel-cyzag.github.io/expenses-tool/)
+<a href="https://joel-cyzag.github.io/expenses-tool/" target="_blank">App link</a>
 
 ### Markdown
 
